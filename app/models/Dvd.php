@@ -1,43 +1,55 @@
 <?php
 
-class Dvd {
+class Dvd extends Eloquent{
 
     public static function search($title, $genre, $rating) {
-        $query = DB::table('dvds')
-            ->join('ratings','ratings.id','=','dvds.rating_id')
-            ->join('genres','genres.id','=','dvds.genre_id')
-            ->join('labels','labels.id', '=', 'dvds.label_id')
-            ->join('sounds','sounds.id', '=', 'dvds.sound_id')
-            ->join('formats','formats.id', '=', 'dvds.format_id');
 
-
+        $dvds = Dvd::with('rating', 'genre', 'sound', 'label', 'format');
 
         if($title) {
-            $query->where('title','LIKE', "%$title%");
+            $dvds->where('title', 'LIKE', "%$title%");
         }
         if($genre != 'all') {
-            $query->where('genre_id','=', "$genre");
+            $dvds->where('genre_id','=', "$genre");
         }
         if($rating != 'all') {
-            $query->where('rating_id','=',"$rating");
+            $dvds->where('rating_id','=',"$rating");
         }
 
-        $dvds = $query->get();
-
-        return $dvds;
+        return $dvds->take(30)->get();
     }
 
-    public static function get_genres() {
-        $query = DB::table('genres')
-        ->select('genre_name', 'id');
-        $genres = $query->get();
-        return $genres;
+    public function rating()
+    {
+        return $this->belongsTo('Rating');
     }
 
-    public static function get_ratings() {
-        $query = DB::table('ratings')
-        ->select('rating_name', 'id');
-        $ratings = $query->get();
-        return $ratings;
+
+    public function genre()
+    {
+        return $this->belongsTo('Genre');
     }
+
+    public function sound() {
+        return $this->belongsTo('Sound');
+    }
+
+    public function label() {
+        return $this->belongsTo('Label');
+    }
+
+    public function format() {
+        return $this->belongsTo('Format');
+    }
+/*
+    public static function validate($input) {
+        return Validator::make($input, [
+            'title' => 'required|alpha_num|min:3',
+            'label' => 'required|integer',
+            'sound' => 'required|integer',
+            'genre' => 'required|integer',
+            'rating' => 'required|integer',
+            'format' => 'required|integer'
+        ]);
+    }*/
 } 

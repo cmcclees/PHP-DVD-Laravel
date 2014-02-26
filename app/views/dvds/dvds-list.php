@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>My Songs</title>
+    <title>My Dvds</title>
     <style>
         .dvds table, .dvds td, .dvds th
         {
@@ -33,16 +33,12 @@
     <?php foreach ($dvds as $dvd) : ?>
         <tr>
             <td class="dvds">  <?php echo $dvd->title; ?></td>
-            <td class="dvds">  <?php echo $dvd->genre_name; ?></td>
-            <td class="dvds">  <?php echo $dvd->rating_name; ?></td>
-            <td class="dvds">  <?php echo $dvd->label_name; ?></td>
-            <td class="dvds">  <?php echo $dvd->sound_name; ?></td>
-            <td class="dvds">  <?php echo $dvd->format_name; ?></td>
-            <td class="dvds">  <?php
-                $date = new \DateTime("$dvd->release_date");
-                echo DATE_FORMAT($date,"m-d-Y");
-
-                ?></td>
+            <td class="dvds">  <?php echo $dvd->genre->genre_name; ?></td>
+            <td class="dvds">  <?php echo $dvd->rating->rating_name; ?></td>
+            <td class="dvds">  <?php echo $dvd->label->label_name; ?></td>
+            <td class="dvds">  <?php echo $dvd->sound->sound_name; ?></td>
+            <td class="dvds">  <?php echo $dvd->format->format_name; ?></td>
+            <td class="dvds">  <?php echo $dvd->release_date; ?></td>
 
         </tr>
     <?php endforeach; ?>
