@@ -16,10 +16,7 @@
 			"app/tests/TestCase.php"
 		],
         "psr-0": {
-<<<<<<< HEAD
             "Itp": "./app"
-=======
->>>>>>> FETCH_HEAD
         }
 	},
 	"scripts": {
