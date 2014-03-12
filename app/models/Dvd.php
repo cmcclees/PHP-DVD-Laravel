@@ -41,7 +41,7 @@ class Dvd extends Eloquent{
     public function format() {
         return $this->belongsTo('Format');
     }
-/*
+
     public static function validate($input) {
         return Validator::make($input, [
             'title' => 'required|alpha_num|min:3',
@@ -51,5 +51,5 @@ class Dvd extends Eloquent{
             'rating' => 'required|integer',
             'format' => 'required|integer'
         ]);
-    }*/
+    }
 } 

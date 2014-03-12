@@ -11,19 +11,23 @@
 |
 */
 
-//Route::get('/', function()
-//{
-//	return View::make('hello');
-//});
+Route::get('/', function()
+{
+	return View::make('hello');
+});
 
 
-Route::get('/dvds/search', 'DvdController@search');
+/*Route::get('/dvds/search', 'DvdController@search');
 Route::get('/dvds', 'DvdController@listDvds');
 Route::get('/dvds/create', 'DvdController@createDvd');
 Route::post('/dvds', 'DvdController@insertDvd');
 
 
-//Route::get('imdb','DvdController@imdb');
-//Route::get('search', 'DvdController@imdbSearch');
+Route::get('/imdb','ImdbController@imdb');
+<<<<<<< HEAD
+Route::get('/imdb/search', 'ImdbController@imdbSearch');
+=======
+Route::get('/imdb/search', 'ImdbController@imdbSearch');*/
+>>>>>>> FETCH_HEAD
 
 

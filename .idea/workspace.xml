@@ -23,37 +23,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Dvd.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/Dvd.php">
+      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="6" selection-start="707" selection-end="707" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="720">
+<<<<<<< HEAD
+            <state line="43" column="0" selection-start="899" selection-end="899" vertical-scroll-proportion="-13.125" vertical-offset="330" max-vertical-offset="900">
               <folding />
+=======
+            <state line="19" column="27" selection-start="485" selection-end="485" vertical-scroll-proportion="-10.375" vertical-offset="36" max-vertical-offset="525">
+              <folding>
+                <element signature="e#7#392#0" expanded="true" />
+              </folding>
+>>>>>>> FETCH_HEAD
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/dvds/search.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="41" selection-start="381" selection-end="385" vertical-scroll-proportion="-4.8" vertical-offset="0" max-vertical-offset="660">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DvdController.php" pinned="false" current="false" current-in-tab="false">
+<<<<<<< HEAD
+      <file leaf-file-name="DvdController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/DvdController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="3" selection-start="590" selection-end="590" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="480">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dvds-list.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/dvds/dvds-list.php">
+            <state line="67" column="5" selection-start="1783" selection-end="1783" vertical-scroll-proportion="0.75460124" vertical-offset="561" max-vertical-offset="1050">
+=======
+      <file leaf-file-name="composer.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="4" selection-start="784" selection-end="784" vertical-scroll-proportion="0.43866944" vertical-offset="314" max-vertical-offset="840">
+            <state line="15" column="36" selection-start="350" selection-end="350" vertical-scroll-proportion="0.4601227" vertical-offset="0" max-vertical-offset="660">
+>>>>>>> FETCH_HEAD
               <folding />
             </state>
           </provider>
@@ -72,19 +68,45 @@
         <option value="$PROJECT_DIR$/app/config/database.php" />
         <option value="$PROJECT_DIR$/app/models/Song.php" />
         <option value="$PROJECT_DIR$/app/views/dvds/search.php" />
-        <option value="$PROJECT_DIR$/app/models/Dvd.php" />
-        <option value="$PROJECT_DIR$/app/routes.php" />
-        <option value="$PROJECT_DIR$/app/controllers/DvdController.php" />
         <option value="$PROJECT_DIR$/app/views/dvds/dvds-list.php" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/composer.json" />
+=======
+>>>>>>> FETCH_HEAD
+        <option value="$PROJECT_DIR$/app/views/itunes.php" />
+        <option value="$PROJECT_DIR$/app/Itp/Api/ItunesSearch.php" />
+        <option value="$PROJECT_DIR$/app/views/imdb.php" />
+        <option value="$PROJECT_DIR$/app/views/search.php" />
+        <option value="$PROJECT_DIR$/app/models/Genre.php" />
+        <option value="$PROJECT_DIR$/app/models/Dvd.php" />
+        <option value="$PROJECT_DIR$/app/Itp/Api/ImdbSearch.php" />
+        <option value="$PROJECT_DIR$/app/views/imdb/imdb.php" />
+        <option value="$PROJECT_DIR$/app/views/imdb/search.php" />
+        <option value="$PROJECT_DIR$/app/controllers/DvdController.php" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/controllers/ImdbController.php" />
+        <option value="$PROJECT_DIR$/app/views/dvds/create.php" />
+=======
+        <option value="$PROJECT_DIR$/app/controllers/ImdbController.php" />
+        <option value="$PROJECT_DIR$/app/views/dvds/create.php" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+>>>>>>> FETCH_HEAD
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="192" />
-    <option name="y" value="22" />
-    <option name="width" value="1024" />
-    <option name="height" value="646" />
+<<<<<<< HEAD
+    <option name="x" value="195" />
+    <option name="y" value="128" />
+=======
+    <option name="x" value="173" />
+    <option name="y" value="76" />
+>>>>>>> FETCH_HEAD
+    <option name="width" value="1116" />
+    <option name="height" value="610" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -112,32 +134,67 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="499-laravel" />
+<<<<<<< HEAD
+              <option name="myItemId" value="PHP-DVD-Laravel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="499-laravel" />
+              <option name="myItemId" value="PHP-DVD-Laravel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="499-laravel" />
+              <option name="myItemId" value="PHP-DVD-Laravel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="499-laravel" />
+              <option name="myItemId" value="PHP-DVD-Laravel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="499-laravel" />
+              <option name="myItemId" value="PHP-DVD-Laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+=======
+              <option name="myItemId" value="Laravel-Midterm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel-Midterm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel-Midterm" />
+>>>>>>> FETCH_HEAD
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="PHP-DVD-Laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-DVD-Laravel" />
+=======
+              <option name="myItemId" value="Laravel-Midterm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel-Midterm" />
+>>>>>>> FETCH_HEAD
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -147,11 +204,19 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="499-laravel" />
+<<<<<<< HEAD
+              <option name="myItemId" value="PHP-DVD-Laravel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="499-laravel" />
+              <option name="myItemId" value="PHP-DVD-Laravel" />
+=======
+              <option name="myItemId" value="Laravel-Midterm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel-Midterm" />
+>>>>>>> FETCH_HEAD
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -159,75 +224,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="499-laravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="499-laravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dvds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="499-laravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="499-laravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="499-laravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="499-laravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
+              <option name="myItemId" value="tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PHP-Auth-A3/dashboard.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../499-laravel-examples2-master/laravel/app/routes.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/imdb" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -255,7 +268,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="192" y="22" width="1024" height="646" extended-state="0" />
+<<<<<<< HEAD
+    <frame x="195" y="128" width="1116" height="610" extended-state="0" />
+=======
+    <frame x="173" y="76" width="1116" height="610" extended-state="0" />
+>>>>>>> FETCH_HEAD
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -263,7 +280,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22939068" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -271,11 +288,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -297,6 +314,58 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/models/Genre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="34" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dvds/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="41" selection-start="381" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/DvdController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="1577" selection-end="1577" vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dvds/dvds-list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="48" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.0" vertical-offset="276" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Dvd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="6" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dvds/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="41" selection-start="381" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/DvdController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="3" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dvds/dvds-list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="4" selection-start="784" selection-end="784" vertical-scroll-proportion="0.0" vertical-offset="314" max-vertical-offset="840" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/Dvd.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="0" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="720">
@@ -306,9 +375,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/dvds/search.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="54" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="660">
-          <folding />
-        </state>
+        <state line="28" column="54" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="660" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/DvdController.php">
@@ -320,16 +387,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="450">
-          <folding />
-        </state>
+        <state line="17" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="450" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/dvds/dvds-list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="38" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="615">
-          <folding />
-        </state>
+        <state line="11" column="38" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/Dvd.php">
@@ -341,21 +404,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/dvds/search.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="44" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="690">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/songs/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="38" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="390" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/SongController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="23" selection-start="358" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="465">
-          <folding />
-        </state>
+        <state line="26" column="44" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="690" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/DvdController.php">
@@ -367,21 +416,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/dvds/dvds-list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="12" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="600">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/songs/songs-list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="0" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="420" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Song.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="0" selection-end="700" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="525">
-          <folding />
-        </state>
+        <state line="29" column="12" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="600" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/Dvd.php">
@@ -391,28 +426,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/songs/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/songs/songs-list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/dvds/search.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="4" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="465">
-          <folding />
-        </state>
+        <state line="14" column="4" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="465" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/dvds/dvds-list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="450" />
+>>>>>>> FETCH_HEAD
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pdo_dvd/search.php">
@@ -445,16 +476,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/songs/songs-list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="0" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="420" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/songs/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="38" selection-start="260" selection-end="260" vertical-scroll-proportion="0.27234638" vertical-offset="0" max-vertical-offset="716" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="763" />
@@ -485,65 +506,127 @@
         <state line="57" column="31" selection-start="1770" selection-end="1770" vertical-scroll-proportion="-13.125" vertical-offset="540" max-vertical-offset="1950" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/SongController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="137" selection-end="217" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="390">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/songs/create.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="740" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Song.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="715" selection-end="715" vertical-scroll-proportion="0.7324219" vertical-offset="0" max-vertical-offset="512">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="450">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PHP-Auth-A3/dashboard.php">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="24" selection-start="303" selection-end="303" vertical-scroll-proportion="0.25714287" vertical-offset="60" max-vertical-offset="1680">
-          <folding>
-            <marker date="1392784658000" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="13" column="24" selection-start="303" selection-end="303" vertical-scroll-proportion="0.25714287" vertical-offset="60" max-vertical-offset="1680" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/dvds/search.php">
+    <entry file="file://$PROJECT_DIR$/app/models/Sound.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="41" selection-start="381" selection-end="385" vertical-scroll-proportion="-4.8" vertical-offset="0" max-vertical-offset="660">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="549" />
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="24" selection-start="303" selection-end="303" vertical-scroll-proportion="0.25714287" vertical-offset="60" max-vertical-offset="1680" />
+>>>>>>> FETCH_HEAD
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/DvdController.php">
+    <entry file="file://$PROJECT_DIR$/../499-laravel-examples2-master/laravel/app/models/Artist.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="3" selection-start="590" selection-end="590" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="480">
-          <folding />
-        </state>
+        <state line="7" column="5" selection-start="43" selection-end="105" vertical-scroll-proportion="0.21472393" vertical-offset="0" max-vertical-offset="489" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Dvd.php">
+    <entry file="file://$PROJECT_DIR$/../499-laravel-examples2-master/laravel/app/models/Song.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="6" selection-start="707" selection-end="707" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="720">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../499-laravel-examples2-master/laravel/app/controllers/SongController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="490" />
+<<<<<<< HEAD
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../499-laravel-examples2-master/laravel/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="0" selection-start="1054" selection-end="1165" vertical-scroll-proportion="0.3190184" vertical-offset="849" max-vertical-offset="1455" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="22" selection-start="281" selection-end="281" vertical-scroll-proportion="0.41845495" vertical-offset="0" max-vertical-offset="675" />
+=======
+>>>>>>> FETCH_HEAD
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../499-laravel-examples2-master/laravel/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state line="16" column="41" selection-start="0" selection-end="994" vertical-scroll-proportion="0.098712444" vertical-offset="194" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Genre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.09202454" vertical-offset="0" max-vertical-offset="489" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/dvds/dvds-list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="4" selection-start="784" selection-end="784" vertical-scroll-proportion="0.43866944" vertical-offset="314" max-vertical-offset="840">
+        <state line="9" column="29" selection-start="0" selection-end="1284" vertical-scroll-proportion="5.875" vertical-offset="276" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Itp/Api/ImdbSearch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="27" selection-start="260" selection-end="260" vertical-scroll-proportion="0.2760736" vertical-offset="0" max-vertical-offset="489" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/imdb/imdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="32" selection-start="62" selection-end="62" vertical-scroll-proportion="0.09202454" vertical-offset="0" max-vertical-offset="690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/imdb/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="109" selection-end="109" vertical-scroll-proportion="0.18404908" vertical-offset="0" max-vertical-offset="489" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="32" selection-start="746" selection-end="746" vertical-scroll-proportion="0.5214724" vertical-offset="0" max-vertical-offset="489" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/ImdbController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="32" selection-start="610" selection-end="610" vertical-scroll-proportion="0.5092025" vertical-offset="66" max-vertical-offset="555" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dvds/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="13" selection-start="2384" selection-end="2384" vertical-scroll-proportion="0.6625767" vertical-offset="1026" max-vertical-offset="1545" />
+=======
+        <state line="67" column="0" selection-start="1054" selection-end="1165" vertical-scroll-proportion="0.3190184" vertical-offset="849" max-vertical-offset="1455" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="27" selection-start="485" selection-end="485" vertical-scroll-proportion="-10.375" vertical-offset="36" max-vertical-offset="525">
+          <folding>
+            <element signature="e#7#392#0" expanded="true" />
+          </folding>
+        </state>
+>>>>>>> FETCH_HEAD
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/ExampleTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state line="43" column="0" selection-start="899" selection-end="899" vertical-scroll-proportion="-13.125" vertical-offset="330" max-vertical-offset="900">
+=======
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
+>>>>>>> FETCH_HEAD
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/controllers/DvdController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="5" selection-start="1783" selection-end="1783" vertical-scroll-proportion="0.75460124" vertical-offset="561" max-vertical-offset="1050">
+=======
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="36" selection-start="350" selection-end="350" vertical-scroll-proportion="0.4601227" vertical-offset="0" max-vertical-offset="660">
+>>>>>>> FETCH_HEAD
           <folding />
         </state>
       </provider>

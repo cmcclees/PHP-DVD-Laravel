@@ -46,9 +46,9 @@ class DvdController extends BaseController{
     }
 
     public function insertDvd() {
-        //$validation = Dvd::validate(Input::all());
+        $validation = Dvd::validate(Input::all());
 
-        //if($validation->passes()) {
+        if($validation->passes()) {
         $dvd = new Dvd();
         $dvd->title = Input::get('title');
         $dvd->rating_id = Input::get('rating');
@@ -60,27 +60,11 @@ class DvdController extends BaseController{
 
         return Redirect::to('dvds/create')
             ->with('success', 'The DVD was inserted successfully!');
-        //}
-/*
+        }
+
         return Redirect::to('dvds/create')
             ->withInput()
-            ->with('errors', $validation->messages());*/
-        //->withErrors($validation);
+            ->withErrors($validation);
     }
-
-/*
-    public function imdb() {
-        $show = Input::get('show');
-        $imdb = new \Itp\Api\ImdbSearch();
-        $json = $imdb->getResults($show);
-
-        return View::make('imdb', [
-            'dvds' => $json->$show->episodes
-        ]);
-    }
-
-    public function imdbSearch() {
-        return View::make('search');
-    }*/
 
 } 
